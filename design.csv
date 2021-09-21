@@ -1,0 +1,8 @@
+Sample_ID,input_FileName,ip_FileName,Group
+UT,UT_Input.fastq,UT_IP.fastq,UT
+UV,HepG2_UV_Input.fastq,HepG2_UV_IP.fastq,UV
+HS,HepG2_HS_Input.fastq,HepG2_HS_IP.fastq,HS
+HGF,HepG2_HGF_Input.fastq,HepG2_HGF_IP.fastq,HGF
+IFN,HepG2_IFN_Input.fastq,HepG2_IFN_IP.fastq,IFN
+MLiv,Mouse_Liver_Input.fastq,Mouse_Liver_IP.fastq,MLiv
+HBrain,Human_Brain_Input.fastq,Human_Brain_IP.fastq,HBrain
